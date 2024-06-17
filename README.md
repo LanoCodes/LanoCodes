@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @LanoCodes
 - 👨🏾‍🎓 I have a degree in Information Systems from Towson University!
-- 🐍 Continuously learning more about Python #100DaysOfCode
+- 🐍 Continuously learning more #100DaysOfCode
 - 🤝🏾 I’m looking to collaborate, so check in with me!
 - 📫 For any questions, reach me by [Email](mailto:del.pow1@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/delano-powell-012144119/) :)
 
